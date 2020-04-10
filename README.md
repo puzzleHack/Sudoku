@@ -6,7 +6,9 @@ For these next few weeks we will be implementing Sudoku! **You may choose any pr
 
 (https://www.google.comhttps://www.youtube.com/watch?v=0gkol-P_Hjg "What is Sudoku?")
 
-**Here is example output using the console:** 
+**Here is example output using the console:**
+
+
 +-----+-----+-----+
 |5    |  8  |  4 9|
 |     |5    |  3  |
